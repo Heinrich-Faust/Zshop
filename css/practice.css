@@ -1,0 +1,13 @@
+.wrap-body{
+    padding: 0 250px
+}
+
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
+
+.col-1-3{
+    grid-column-start: ;
+    grid-column-end: ;
+}
